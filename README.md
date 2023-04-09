@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Chaudhary</h1>
 <h3 align="center">A flutter and nodejs developer</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Flutter,NodeJS,Python**
 
 - 📫 How to reach me **mayur.chaudhary1821@gmail.com**
